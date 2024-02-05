@@ -20,7 +20,7 @@ public class ExerciseFourth {
                 numbers[i] = scanner.nextInt();
             }
 
-            int lergestNumber = findLargestNumber(numbers);
+            int LergestNumber = findLargestNumber(numbers);
         }
 
         public static int findLargestNumber(int[] array) {

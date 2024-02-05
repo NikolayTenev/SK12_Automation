@@ -24,7 +24,7 @@ public class ExerciseTwo {
                 System.out.println("She is a" + " " + age+ " " + " and can work");
                 System.out.println("You are eligible to work.");
             } else {
-                System.out.println("Yuo are not eliginle to work");
+                System.out.println("Yuo are not eligible to work");
             }
 
 
